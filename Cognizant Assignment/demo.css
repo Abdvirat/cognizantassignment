@@ -1,0 +1,117 @@
+body{
+    margin:auto;
+    
+}
+.form{
+    
+    width:100%;
+    height: 900px;
+    background-image: url('renato-pozzi-G4oGYy_ZcsQ-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+}
+h2{
+    text-align: center;
+    
+    font-family: sans-serif;
+}
+.registration{
+    border: 2px solid black;
+    width:40%;
+    height:720px;
+    margin-left: 30%;
+    margin-top: 2%;
+    background-color: rgba(0,0,0,0.5);
+    border-radius: 20px;
+    box-shadow: 2px 2px 15px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 18px;
+}
+input{
+    margin-left:10%;
+    font-size: 19px;
+    border-radius: 10px;
+}
+form{
+    margin-left: 7%;
+    cursor: pointer;
+}
+
+#stuid{
+    margin-left: 20%;
+    border: 2px solid black;
+}
+
+#name1{
+    margin-left: 19.5%;
+    border: 2px solid black;
+}
+#name2 {
+    margin-left: 20%;
+    border: 2px solid black;
+}
+#name3 {
+    margin-left: 13%;
+    border: 2px solid black;
+}
+#name4 {
+    margin-left: 11%;
+    border: 2px solid black;
+}
+#name5{
+    margin-left: 6.5%;
+    border: 2px solid black;
+}
+#name6{
+    margin-left: 3%;
+    border: 2px solid black;
+}
+#name7{
+    margin-left: 9%;
+    border: 2px solid black;
+}
+
+#degree{
+    margin-left: 8%;
+    width:240px;
+    height: 28px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+#experience{
+    margin-left: 8%;
+        width: 240px;
+        height: 28px;
+        border-radius: 10px;
+        border: 2px solid black;
+}
+
+label{
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 20px;
+}
+
+#male{
+    font-size: 20px;
+    height: 20px;
+}
+
+#submit{
+    width:200px;
+    padding:7px;
+    font-size: 16px;
+    font-family: sans-serif;
+    font-family: sans-serif;
+    font-weight: 600;
+    border-radius: 3px;
+    background-color: rgba(250,100,0,0.8);
+    color:#fff;
+    cursor: pointer;
+    border: 1px solid
+    rgba(255,255,255,0.3);
+    box-shadow:1px 1px 5px rgba(0,0,0,0.3)
+
+}
